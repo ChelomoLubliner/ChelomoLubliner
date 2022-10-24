@@ -1,10 +1,6 @@
 ### Hi 👋, I'm Chelomo
 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a ***Data Scientist***.
 - 🌱 I’m currently learning ***Deep Learning, Map-Reduce, and Clusters***.
 - 😄 I’m passionate about ***Data Science*** and ***Neural Networks***.

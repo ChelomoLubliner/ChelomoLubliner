@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working as a ***Data Scientist***.
-- 🌱 I’m currently learning ***Deep Learning, Map-Reduce, and Clusters***.
 - 😄 I’m passionate about ***Data Science*** and ***Neural Networks***.
 - 🗣️ My main languages are ***Python*** and ***SQL***. I also feel well in ***C++***.  
 - 🌱 It's important for me to learn and growing every day

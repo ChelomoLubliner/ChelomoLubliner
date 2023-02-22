@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working as a ***Data Scientist***.
-- 😄 I’m passionate about ***Data Science*** and ***Neural Networks***.
+- 😄 I’m I’m studying a Master of Data Science at The Hebrew University of Jerusalem.
+-  My research under the supervision of Prof. Micha Mandel is on Forensic, Image Processing and Statistical Modelings.
 - 🗣️ My main languages are ***Python*** and ***SQL***. I also feel well in ***C++***.  
 - 🌱 It's important for me to learn and growing every day
 - 📫 You can reach me on  [LinkedIn](https://www.linkedin.com/in/chelomo-lubliner/)
